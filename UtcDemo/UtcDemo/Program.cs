@@ -8,6 +8,10 @@ namespace UtcDemo
 {
     class Program
     {
+        /// <summary>
+        /// main
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             string strDate = "2015-11-14T21:29:10.8400000Z";
