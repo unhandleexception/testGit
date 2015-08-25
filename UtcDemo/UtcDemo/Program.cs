@@ -9,7 +9,7 @@ namespace UtcDemo
     class Program
     {
         /// <summary>
-        /// the entry port
+        /// the fuck main
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
